@@ -1,0 +1,34 @@
+* {
+        font-size: xx-large;
+}
+
+#win {
+        background-color: #121116;
+        background-image: none;
+}
+
+#bt {
+        background-color: #18171c;
+        background-image: none;
+}
+
+#b1d {
+        background-color: green;
+        background-image: none;
+}
+
+#reset {
+        background-color: #18171c;
+        border-radius: 20px;
+        background-image: none;
+}
+
+#reset:hover {
+        background-color: #006aff;
+        background-image: none;
+        box-shadow: 0 0 4px #006aff;
+}
+
+#reset:active {
+        background-color: white;
+}
